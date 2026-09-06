@@ -10,22 +10,22 @@ If something catches my interest, chances are I'll try to build it. 😄
 
 I'm still learning, so this GitHub is basically my journey — projects, experiments, mistakes, fixes, and everything in between.
 
-### Fun Facts
+### 🌟 A Little About Me
 
-- 🐍 Python enthusiast
-- 💻 Also work with C++ & Java
-- 📊 Exploring Data Science
-- 🤖 Learning AI/ML
-- 🧩 Practicing DSA
-- 🚀 Love building & experimenting
-- 🔥 Learning by doing
+- 🐍 Python is my primary language
+- 💻 Comfortable with C++ & Java
+- 📊 Exploring Data Science & Analytics
+- 🤖 Diving into Machine Learning & AI
+- 🧩 Strengthening DSA & problem-solving
+- 🚀 Building projects and experimenting with ideas
+- 🔥 Learning something new every day
 
-- ### 🚀 What I'm Currently Working On
+### 🚀 Currently Exploring
 
-- 📊 Improving my Data Science skills
-- 🤖 Learning Machine Learning & AI
-- 🧩 Strengthening DSA and problem-solving
-- 🐍 Building projects with Python
-- 💡 Exploring new technologies and ideas
+- 📊 Data Science & Data Analysis
+- 🤖 Machine Learning & Artificial Intelligence
+- 🧩 DSA & competitive problem-solving
+- 🐍 Building practical projects with Python
+- 💡 Exploring new technologies and real-world applications
 
-**Build things. Break things. Learn from them. Repeat.**
+> **Learn. Build. Experiment. Improve. Repeat. 🚀**
