@@ -17,7 +17,6 @@ I'm still learning, so this GitHub is basically my journey — projects, experim
 - 📊 Exploring Data Science & Analytics
 - 🤖 Diving into Machine Learning & AI
 - 🧩 Strengthening DSA & problem-solving
-- 🚀 Building projects and experimenting with ideas
 - 🔥 Learning something new every day
 
 ### 🚀 Currently Exploring
