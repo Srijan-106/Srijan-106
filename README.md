@@ -10,7 +10,7 @@ If something catches my interest, chances are I'll try to build it. 😄
 
 I'm still learning, so this GitHub is basically my journey — projects, experiments, mistakes, fixes, and everything in between.
 
-### 🌟 A Little About Me
+### 🌟 A Little About Me.....
 
 - 🐍 Python is my primary language
 - 💻 Comfortable with C++ & Java
